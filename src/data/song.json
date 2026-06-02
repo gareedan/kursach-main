@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "title": "Мыльница!",
+    "artist": "Егор Бало",
+    "album": "Мне без тебя не так светло",
+    "duration": "1:50",
+    "audioUrl": "/music/egor_balo_-_mylnica_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumMneBezTebya.svg"
+  },
+  {
+    "id": 2,
+    "title": "Не так светло",
+    "artist": "Егор Бало",
+    "album": "Мне без тебя не так светло",
+    "duration": "1:09",
+    "audioUrl": "/music/egor_balo_-_ne_tak_svetlo_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumMneBezTebya.svg"
+  },
+  {
+    "id": 3,
+    "title": "Мосты",
+    "artist": "Егор Бало",
+    "album": "Мне без тебя не так светло",
+    "duration": "1:42",
+    "audioUrl": "/music/egor_balo_-_mosty_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumMneBezTebya.svg"
+  },
+  {
+    "id": 4,
+    "title": "Я убегаю",
+    "artist": "Егор Бало",
+    "album": "Мне без тебя не так светло",
+    "duration": "1:48",
+    "audioUrl": "/music/egor_balo_-_ya_ubegayu_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumMneBezTebya.svg"
+  },
+  {
+    "id": 5,
+    "title": "Симпатия",
+    "artist": "Егор Бало",
+    "album": "Мне без тебя не так светло",
+    "duration": "1:34",
+    "audioUrl": "/music/egor_balo_-_simpatiya_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumMneBezTebya.svg"
+  },
+  {
+    "id": 6,
+    "title": "Звёзды в небе",
+    "artist": "Егор Бало",
+    "album": "Мне без тебя не так светло",
+    "duration": "2:19",
+    "audioUrl": "/music/egor_balo_-_zvezdy_v_nebe_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumMneBezTebya.svg"
+  },
+  {
+    "id": 7,
+    "title": "33",
+    "artist": "Егор Бало, Вася Чижик",
+    "album": "Мне без тебя не так светло",
+    "duration": "1:35",
+    "audioUrl": "/music/egor_balo_vasya_chizhik_-_33_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumMneBezTebya.svg"
+  },
+  {
+    "id": 8,
+    "title": "Светофор",
+    "artist": "Егор Бало",
+    "album": "Мне без тебя не так светло",
+    "duration": "2:06",
+    "audioUrl": "/music/egor_balo_-_svetofor_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumMneBezTebya.svg"
+  },
+  {
+    "id": 9,
+    "title": "дом",
+    "artist": "Егор Бало",
+    "album": "Дом",
+    "duration": "1:57",
+    "audioUrl": "/music/egor_balo_-_dom_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumDom.svg"
+  },
+  {
+    "id": 10,
+    "title": "Дурак",
+    "artist": "Егор Бало",
+    "album": "Дом",
+    "duration": "2:08",
+    "audioUrl": "/music/egor_balo_-_dyrak_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumDyrak.svg"
+  },
+  {
+    "id": 11,
+    "title": "Твои глаза",
+    "artist": "Егор Бало",
+    "album": "твои глаза",
+    "duration": "1:46",
+    "audioUrl": "/music/egor_balo_-_tvoi_glaza_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumTvoiGlaza.svg"
+  },
+  {
+    "id": 12,
+    "title": "Хандра",
+    "artist": "Егор Бало",
+    "album": "Хандра",
+    "duration": "2:36",
+    "audioUrl": "/music/egor_balo_-_khandra_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumKhandra.svg"
+  },
+  {
+    "id": 13,
+    "title": "Февраль",
+    "artist": "Егор Бало",
+    "album": "Хандра",
+    "duration": "2:15",
+    "audioUrl": "/music/egor_balo_-_fevral_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumKhandra.svg"
+  },
+
+  {
+    "id": 14,
+    "title": "Ты моя одна",
+    "artist": "Егор Бало",
+    "album": "Хандра",
+    "duration": "1:58",
+    "audioUrl": "/music/egor_balo_-_ty_moya_odna_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumKhandra.svg"
+  },
+  {
+    "id": 15,
+    "title": "Рубашка, пара кед",
+    "artist": "Егор Бало",
+    "album": "Рубашка, пара кед",
+    "duration": "1:48",
+    "audioUrl": "/music/egor_balo_-_rubashka_para_ked_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumRubashka.svg"
+  },
+  {
+    "id": 16,
+    "title": "Мы с тобой",
+    "artist": "Егор Бало",
+    "album": "Рубашка, пара кед",
+    "duration": "1:50",
+    "audioUrl": "/music/egor_balo_-_my_s_tobojj_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumRubashka.svg"
+  },
+  {
+    "id": 17,
+    "title": "Громче",
+    "artist": "Егор Бало",
+    "album": "Рубашка, пара кед",
+    "duration": "1:55",
+    "audioUrl": "/music/egor_balo_-_gromche_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumRubashka.svg"
+  },
+  {
+    "id": 18,
+    "title": "Полюбил",
+    "artist": "Егор Бало",
+    "album": "Рубашка, пара кед",
+    "duration": "1:50",
+    "audioUrl": "/music/egor_balo_-_polyubil_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumRubashka.svg"
+  },
+  {
+    "title": "Облик",
+    "artist": "Егор Бало",
+    "album": "Рубашка, пара кед",
+    "duration": "2:03",
+    "audioUrl": "/music/egor_balo_-_oblik_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumRubashka.svg"
+  },
+  {
+    "id": 20,
+    "title": "На последнем этаже",
+    "artist": "Егор Бало",
+    "album": "Рубашка, пара кед",
+    "duration": "3:09",
+    "audioUrl": "music/egor_balo_-_na_poslednem_jetazhe_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumRubashka.svg"
+  },
+  {
+    "id": 21,
+    "title": "Небо",
+    "artist": "Егор Бало",
+    "album": "Рубашка, пара кед",
+    "duration": "1:50",
+    "audioUrl": "/music/egor_balo_-_nebo_(musportal.org).mp3",
+    "cover": "/images/AlbumRubashka.svg"
+  },
+  {
+    "id": 22,
+    "title": "Крутая",
+    "artist": "Егор Бало",
+    "album": "Крутая",
+    "duration": "1:43",
+    "audioUrl": "/music/egor_balo_-_krutaya_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumKrutaya.svg"
+  },
+  {
+    "id": 23,
+    "title": "Скучаю",
+    "artist": "Егор Бало",
+    "album": "Скучаю",
+    "duration": "1:55",
+    "audioUrl": "/music/egor_balo_-_skuchayu_(musportal%20(mp3cut.net).mp3",
+    "cover": "/images/AlbumSkuchayu.svg"
+  }
+]
