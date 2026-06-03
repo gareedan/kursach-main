@@ -89,7 +89,7 @@ onMounted(() => {
 onUnmounted(() => clearInterval(timer))
 </script>
 
-<style>
+<style scoped>
 
 @font-face {
   font-family: 'Chiron';

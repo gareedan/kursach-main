@@ -85,7 +85,7 @@ const closeMenu = () => {
 }
 </script>
 
-<style>
+<style >
 @font-face {
   font-family: 'Chiron';
   src: url('@/assets/fonts/ChironGoRoundTC-Light.ttf');
@@ -125,7 +125,7 @@ body {
   right: 0;
   height: 1px;
   background: white;
-  width: 1760px;
+  width: 92%;
 }
 
 .nav-buttons {
