@@ -1,5 +1,3 @@
-
-
 <template>
 <header>
   <div class="EgorBalo">

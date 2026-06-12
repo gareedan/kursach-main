@@ -9,15 +9,12 @@
           <router-link to="/concert">Афиши</router-link>
         </div>
         <div class="nav-buttons-right"></div>
-
         <button class="burger-btn" @click="toggleMenu" :class="{ 'active': menuOpen }" aria-label="Меню">
           <span></span>
           <span></span>
           <span></span>
         </button>
       </nav>
-
-
       <transition name="dropdown">
         <div v-if="menuOpen" class="mobile-menu">
           <router-link to="/" @click="closeMenu">
@@ -29,9 +26,7 @@
       </transition>
     </header>
   </div>
-
   <router-view />
-
   <footer>
     <div class="footContact">
       <h2>Контакты для связи:</h2>
@@ -61,7 +56,6 @@
     </div>
   </footer>
 </template>
-
 <script setup>
 import { ref } from 'vue'
 
@@ -75,16 +69,13 @@ const copyEmail = () => {
     showNotification.value = false
   }, 2000)
 }
-
 const toggleMenu = () => {
   menuOpen.value = !menuOpen.value
 }
-
 const closeMenu = () => {
   menuOpen.value = false
 }
 </script>
-
 <style >
 @font-face {
   font-family: 'Chiron';
@@ -125,7 +116,7 @@ body {
   right: 0;
   height: 1px;
   background: white;
-  width: 92%;
+  width: 100%;
 }
 
 .nav-buttons {

@@ -1,11 +1,9 @@
-vue<script setup>
+<script setup>
 import { ref } from 'vue'
-import songs from '../data/song.json'
-
+import songs from '../stores/song.json'
 const currentSong = ref(null)
 const isPlaying = ref(false)
 const audioEl = ref(null)
-
 const playSong = (song) => {
   if (currentSong.value?.id === song.id) {
     if (isPlaying.value) {
@@ -17,11 +15,9 @@ const playSong = (song) => {
     }
     return
   }
-
   if (audioEl.value) {
     audioEl.value.pause()
   }
-
   currentSong.value = song
   isPlaying.value = false
 
@@ -34,13 +30,11 @@ const playSong = (song) => {
     }
   }, 50)
 }
-
 const onEnded = () => {
   isPlaying.value = false
   currentSong.value = null
 }
 </script>
-
 <template>
   <div class="back">
     <div class="songs-list">
@@ -69,7 +63,6 @@ const onEnded = () => {
   </div>
   </div>
 </template>
-
 <style scoped>
 * {
   margin: 0;
